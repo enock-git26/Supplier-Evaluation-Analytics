@@ -59,6 +59,7 @@ supplier_results.csv
 Supplier_Evaluation_Dashboard.pbix
 
 ## Dashboard
+![Supplier Evaluation Dashboard](supplier_dashboard.png)
 
 The Power BI dashboard provides:
 
