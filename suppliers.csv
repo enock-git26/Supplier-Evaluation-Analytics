@@ -1,0 +1,6 @@
+Supplier,Price,Delivery_Days,Quality_Score
+Supplier A,25000,30,9
+Supplier B,23500,45,7
+Supplier C,26000,14,9
+Supplier D,22750,25,8
+Supplier E,24000,10,10
